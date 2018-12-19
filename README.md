@@ -1,1 +1,7 @@
 # Android-App
+
+These android apps were part of my internship. I have developed 2 android applications namely: Vox360 and TimesOOH. The Vox360 app provides a basic overview of the company’s projects of the past and services they offer to their clients. So any prospective client can use the app and see the domains in which Vox360 can provide them with different services by viewing the projects on which the company had already worked.
+
+The TimesOOH app provides the user with information regarding marketing hoardings(Billboards) provided by the Times group to their client with precise location on google maps along with photos and VR (Virtual Reality) experience of the site. The VR component of android was used here and was synchronized with the gyroscope of the mobile phone so according to the movement of the user's phone the user would be able to get an immersive VR experience. This VR can also be used with Samsung GearVR in order to get an enhanced experience. The Google Map feature is also included into this app so that a user can get the precise distance to the billboard which they wish to reach to. It also provides navigation.
+
+Both these apps fetch data in real time with no delay and android web services were used in it. Security aspects are also considered so specialized encryption & decryption algorithms were designed and used in the application so that a hacker cannot steal the data.
